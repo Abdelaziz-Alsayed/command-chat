@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Windows AI Agent
 
 An AI-powered Windows assistant that enables users to interact with their operating system using natural language. 
