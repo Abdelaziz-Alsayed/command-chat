@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Windows AI Agent
 
 An AI-powered Windows assistant that enables users to interact with their operating system using natural language. 
@@ -219,3 +220,7 @@ Before deploying this software outside a local, sandboxed test setup, implement 
 ## License
 
 This project is intended for educational and experimental purposes.
+=======
+# command-chat
+AI-powered Windows assistant that allows users to interact with their computer using natural language.
+>>>>>>> e2149f4f197eb1a390bcb9d9559ebb97b1bad506
